@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi 👋, I'm <a href="">Mahmoud Taouti</a></h1>
-<h3 align="center">A Software Developer 💻⚒️</h3>
+<h3 align="center">Software Developer 💻⚒️</h3>
 
 
 <!--[<img align="left" alt="Mahmoud Taouti | Instagram" width="28px" src="" />][instagram]
