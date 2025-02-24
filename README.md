@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <img align="left" alt=“Tensorflow” width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt=“ScikitLearn” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img align="left" alt=“Numpy” width="26px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
+
 ***.***
 
 <br />
