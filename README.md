@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Mahmoud Taouti | Facebook" width="28px" src="" />][facebook]
 [<img align="left" alt="Mahmoud Taouti | Medium" width="28px" src="" />][medium] -->
 
-
-<br />
 <br />
 
 ### Languages and Tools
