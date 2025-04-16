@@ -37,7 +37,7 @@
 
 <br />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudtaouti&theme=vue&hide_border=true)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudtaouti&theme=vue&hide_border=true)<br/>-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 ## 🏆 GitHub Trophies
