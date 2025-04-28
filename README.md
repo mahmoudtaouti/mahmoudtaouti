@@ -6,7 +6,7 @@
 ### Languages and Tools
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<!-- <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> -->
 <img align="left" alt=“Supabse” width="26px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
 <img align="left" alt=“Android” width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" />
 <img align="left" alt=“XCode” width="26px" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" />
